@@ -1,2 +1,2 @@
 # SPHINX-PROTOCOL
-** Used for development of a Quantum Blockchain in python to work with Kubernetes containers, Personium Apps, Openstack and solid framework from MIT. The blockchain will be custom made to support encrypted file sharing with zero knowledge protocol and triple layer encryption through IP SEC verification  
+** This part is design for the code base built on hyperledger sawtooth to integrate personium personal data store to be managed through kubernetes. The blockchain will be combine with fantom foundation consensus to form a security token for a future offering. This project also personal quantum app development in a high permormance hybrid Blockchain/DAG enviroment with post-quantum cryptography cyber security. 
